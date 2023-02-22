@@ -1,8 +1,10 @@
+import buttefly from './images/download.jpg';
 function Navigation() {
 return (
         <section>
           <div className="topnov">
- 
+            
+ < img src={butterfly}/>
               <a href="#saving">saving</a>
               <a href="#creditcards">Credit cards</a>
               <a href="#loans"> loans</a>
