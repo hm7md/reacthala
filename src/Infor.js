@@ -1,7 +1,7 @@
 function Infor () {
     return (
         <section>
-            <div class="hero-text-container">
+            <div className="hero-text-container">
         <h1
           >Next generation<br />
           digital banking</h1

@@ -1,4 +1,4 @@
-import buttefly from './images/download.jpg';
+import butterfly from './images/download.jpg';
 function Navigation() {
 return (
         <section>

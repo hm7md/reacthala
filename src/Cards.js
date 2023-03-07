@@ -1,8 +1,8 @@
 function Cards(props) {
     return(
-        <div class="article">
+        <div className="article">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUT0FKOVmaWOlmd3KaV_uLFkUcam6N1JH4pQ&usqp=CAU" alt="" />
-            <div class="content">
+            <div className="content">
               <p>{props.paraghraph}
               </p>
               <h4
